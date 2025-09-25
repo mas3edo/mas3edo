@@ -7,7 +7,7 @@
 </h3>
 <p align="center">
   <a href="https://github.com/mas3edo?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social"/>
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/mas3edo?label=Follow&style=social"/>
   </a>
 </p>
 
