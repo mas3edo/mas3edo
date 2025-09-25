@@ -6,7 +6,7 @@
   Front-End Web Developer
 </h3>
 <p align="center">
-  <a href="https://github.com/masa3edo?tab=followers">
+  <a href="https://github.com/mas3edo?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social"/>
   </a>
 </p>
@@ -86,8 +86,8 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masa3edo&show_icons=true&theme=dracula&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masa3edo&layout=compact&theme=dracula&locale=en" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mas3edo&show_icons=true&theme=dracula&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mas3edo&layout=compact&theme=dracula&locale=en" alt="Top Languages" />
 </p>
 
 ---
