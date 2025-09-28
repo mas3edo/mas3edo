@@ -80,7 +80,7 @@
   <tr>
     <td width="50%">
       <h4 align="center"><a href="https://mas3edo.github.io/E-Commerce/">E-Commerce (e.g., E-Commerce Website)</a></h4>
-      <a href="https://mas3edo.github.io/portfolio/">"E-Commerce Preview"/></a>
+      <a href="https://mas3edo.github.io/E-Commerce/">"E-Commerce Preview"/></a>
       <p>
         <b>Description:</b> Quality Essentials for Modern Living. (Specific and implies a high standard)
         <br>
