@@ -70,8 +70,7 @@
   <tr>
     <td width="50%">
       <h4 align="center"><a href="https://mas3edo.github.io/portfolio/">Project Name 1 (e.g., Portfolio Website)</a></h4>
-      <a href="https://mas3edo.github.io/portfolio/"><img src="<img width="1920" height="1080" alt="image" src="mas3edo/image.png" />
-" width="100%" alt="Project 1 Preview"/></a>
+      <a href="https://mas3edo.github.io/portfolio/"><img src="mas3edo/image.png" width="100%" alt="Project 1 Preview"/>" width="100%" alt="Project 1 Preview"/></a>
       <p>
         <b>Description:</b> A personal portfolio website to showcase my skills and resume. Built from scratch with a focus on clean UI and responsive design.
         <br>
