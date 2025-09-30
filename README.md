@@ -76,9 +76,18 @@ const ahmed = {
 
 <div align="center">
 
-### 🌟 Main Portfolio Website
+### 🌟 Main Portfolio Website (Next.js)
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Demo-Portfolio-blue?style=for-the-badge)](https://mas3edo.github.io/portfolio/)
+[![Portfolio Next.js](https://img.shields.io/badge/🌐_Live_Demo-Next.js_Portfolio-blue?style=for-the-badge)](https://ahmed-massoud.vercel.app/)
+
+**Modern portfolio built with Next.js, TypeScript, and Tailwind CSS**  
+`Next.js` `TypeScript` `Tailwind CSS` `React` `Responsive Design`
+
+---
+
+### 🎨 Original Portfolio Website
+
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Demo-Original_Portfolio-lightblue?style=for-the-badge)](https://mas3edo.github.io/portfolio/)
 
 **Personal portfolio showcasing my work and skills**  
 `HTML5` `CSS3` `JavaScript` `Responsive Design`
