@@ -1,116 +1,194 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="Hi">
-  Hi, I'm Ahmed Masssoud
-</h1>
-<h3 align="center">
-  Front-End Web Developer
-</h3>
-<p align="center">
-  <a href="https://github.com/mas3edo?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/mas3edo?label=Follow&style=social"/>
-  </a>
-</p>
-
-
----
-
-### 👨‍💻 About Me
-
-<p>
-  I'm a passionate Front-End Developer dedicated to building interactive and user-friendly web interfaces. My journey in programming started with a love for turning ideas into tangible digital experiences using the core technologies of the web.
-</p>
-
-- 🔭 I’m currently working on honing my **JavaScript** skills and building more complex projects.
-- 🌱 I’m currently learning more about Data Structures and Algorithms to improve my problem-solving abilities.
-- 🤔 I’m looking to collaborate on open-source projects to apply what I've learned.
-- 💬 Ask me about **HTML, CSS, JavaScript**, or the principles of **Object-Oriented Programming**.
-- 📫 How to reach me: **ahmedmasshoud929@gmail.com**
-- ⚡ Fun fact: I enjoy analyzing the design of popular websites and trying to rebuild them myself.
-
----
-
-### 🛠️ Skills & Technologies
-
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="👋">
+  <h1>Hi there! I'm Ahmed Massoud</h1>
+  <h3>🚀 Frontend Developer & Creative Problem Solver</h3>
   
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a>
-</p>
-
-- **Core:** `HTML5`, `CSS3`, `JavaScript (ES6+)`
-- **Concepts:** `Object-Oriented Programming (OOP)`, `Problem Solving`
-- **Basic Knowledge:** `Python`, `C#`
-- **Tools:** `Git`, `GitHub`, `VS Code`
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=mas3edo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <a href="https://github.com/mas3edo?tab=followers">
+      <img src="https://img.shields.io/github/followers/mas3edo?label=Followers&style=social" alt="GitHub Followers" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### 🚀 Pinned Projects
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+```javascript
+const ahmed = {
+  location: "Egypt 🇪🇬",
+  experience: "1+ year",
+  focus: "Frontend Development",
+  currentlyLearning: ["React", "Next.js", "TypeScript"],
+  hobbies: ["Coding", "Problem Solving", "Building Projects"],
+  contactMe: "ahmedmasshoud929@gmail.com",
+};
+```
+
+- 🔭 **Currently working on:** Modern web applications with React & Next.js
+- 🌱 **Learning:** Advanced React patterns, TypeScript, and modern web technologies
+- 👯 **Looking to collaborate on:** Open source projects and innovative web applications
+- 💬 **Ask me about:** HTML, CSS, JavaScript, React, responsive design
+- 📫 **Reach me:** ahmedmasshoud929@gmail.com
+- ⚡ **Fun fact:** I love recreating popular website designs and adding my own creative touch!
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### Languages & Frameworks
 
 <p>
-  I recommend pinning your best 3-4 projects to the top of your profile. These are just examples; please edit them to fit your actual projects.
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 </p>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h4 align="center"><a href="https://mas3edo.github.io/portfolio/"> portfolio (e.g., Portfolio Website)</a></h4>
-      <a href="https://mas3edo.github.io/portfolio/">"Portfolio"/></a>
-      <p>
-        <b>Description:</b> A personal portfolio website to showcase my skills and resume. Built from scratch with a focus on clean UI and responsive design.
-        <br>
-        <b>Tech:</b> HTML5, CSS3, JavaScript
-      </p>
-    </td>
-  <tr>
-    <td width="50%">
-      <h4 align="center"><a href="https://mas3edo.github.io/E-Commerce/">E-Commerce (e.g., E-Commerce Website)</a></h4>
-      <a href="https://mas3edo.github.io/E-Commerce/">"E-Commerce Preview"/></a>
-      <p>
-        <b>Description:</b> Quality Essentials for Modern Living. (Specific and implies a high standard)
-        <br>
-        <b>Tech:</b> HTML5, CSS3, JavaScript, react.js
-      </p>
-    </td>
-    
-  </tr>
-</table>
+### Styling & Design
+
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Responsive_Design-FF6B6B?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Design"/>
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+</p>
+
+</div>
 
 ---
 
-### 📊 My GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mas3edo&show_icons=true&theme=dracula&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mas3edo&layout=compact&theme=dracula&locale=en" alt="Top Languages" />
-</p>
+<div align="center">
+
+### 🌟 Main Portfolio Website
+
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Demo-Portfolio-blue?style=for-the-badge)](https://mas3edo.github.io/portfolio/)
+
+**Personal portfolio showcasing my work and skills**  
+`HTML5` `CSS3` `JavaScript` `Responsive Design`
 
 ---
 
-### 📞 Connect with me
+### 🛒 E-Commerce Platform
 
-<p align="center">
-  <a href="www.linkedin.com/in/
-ahmed-masshoud-b495b730b
-Vanity URL na" target="_blank">
+[![E-Commerce](https://img.shields.io/badge/🌐_Live_Demo-E--Commerce-green?style=for-the-badge)](https://mas3edo.github.io/E-Commerce/)
+
+**Modern e-commerce solution with shopping cart functionality**  
+`React` `JavaScript` `CSS3` `Shopping Cart`
+
+---
+
+### 🎮 Interactive Games Collection
+
+[![Games](https://img.shields.io/badge/🌐_Live_Demo-Games-orange?style=for-the-badge)](https://mas3edo.github.io/games/)
+
+**Interactive browser games showcasing JavaScript programming skills**  
+`JavaScript` `HTML5 Canvas` `Game Development` `DOM Manipulation`
+
+---
+
+### 📝 Blog & Posts Platform
+
+[![Blog](https://img.shields.io/badge/🌐_Live_Demo-Blog-purple?style=for-the-badge)](https://mas3edo.github.io/posts/)
+
+**Clean and modern blog platform for sharing thoughts and tutorials**  
+`HTML5` `CSS3` `JavaScript` `Content Management`
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mas3edo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mas3edo&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mas3edo&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mas3edo&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mas3edo&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced React Patterns
+  - TypeScript Best Practices
+  - Modern CSS Techniques
+  - Next.js App Router
+
+Building:
+  - Portfolio Projects
+  - Interactive Web Applications
+  - Responsive Design Systems
+
+Goals:
+  - Contribute to Open Source
+  - Master Modern Frontend Stack
+  - Build Production-Ready Apps
+```
+
+---
+
+## 📞 Let's Connect!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ahmed-masshoud-b495b730b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ahmedmasshoud929@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:ahmedmasshoud929@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  </p>
+  <a href="https://github.com/mas3edo">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="tel:+201063308758">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h3>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
+  <p>⭐ From <a href="https://github.com/mas3edo">mas3edo</a> | Frontend Developer passionate about creating amazing web experiences!</p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
